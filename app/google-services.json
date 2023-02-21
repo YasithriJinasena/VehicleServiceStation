@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "591610863253",
+    "project_id": "vehicleservicestation-83426",
+    "storage_bucket": "vehicleservicestation-83426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591610863253:android:81bf3b310e616412c7859c",
+        "android_client_info": {
+          "package_name": "com.example.vehicleservicestation"
+        },
+        "classpath": "com.google.gms:google-services:4.3.13"
+
+      },
+      "oauth_client": [
+        {
+          "client_id": "591610863253-pf2odii5s5n22539u22lgna6to7qkfo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZtJlb2Nu2Lq7mPtzs1vuy6-SDadNBLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591610863253-pf2odii5s5n22539u22lgna6to7qkfo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
